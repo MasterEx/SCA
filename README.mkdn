@@ -1,0 +1,4 @@
+Screen Capture Application
+--------------------------
+
+A mini java application for screen capturing. There are both gui and cli.
